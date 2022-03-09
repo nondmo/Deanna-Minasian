@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Hi! I’m Deanna,
+### a graduate student at Simmons University.
 
-You can use the [editor on GitHub](https://github.com/nondmo/deannaminasian/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I aim to graduate with two degrees, a Master of Science in Archives and a Master of Arts in History, by May 2023. In addition to archival studies, I have professional experience with data analysis, database management, front-end web development, mailing lists, and copy editing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nondmo/deannaminasian/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This site hosts examples of academic achievements, a current (work in progress) resume, and contact information for professional inquiries.
