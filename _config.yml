@@ -4,8 +4,3 @@ plugins:
 title: Deanna Minasian
 description: Digital Archivist & Graduate Student
 show_downloads: false
-
-# portfolio generator options
-portfolio_dir: "projects"
-related_project_keys: ["portfolio", "archive"]
-related_min_common: 0.7
