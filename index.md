@@ -7,9 +7,10 @@ This site hosts examples of academic achievements, a current (work in progress) 
 
 ## Portfolio
 <ul>
-  {% for post in https://nondmo.github.io/Deanna-Minasian/_posts %}
+  {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
